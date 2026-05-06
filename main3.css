@@ -1,0 +1,23 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    border: 10px solid; 
+    font-weight: 20px;
+    text-align: center;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    border: 20px solid black;
+border-left: 10px  solid ;
+border-right: 10px solid;
+margin-inline: 220px;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color:  indianred;
+    border: 10px solid;
+}
